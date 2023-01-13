@@ -26,6 +26,8 @@ sudo apt install python3.10
 2. Run the following command: `pip3 --version`
 3. Install the requirements: `sudo pip3 install -r requirements.txt`
 
+Assuming 3 didn't work: 4. install the requirement in this manner: `sudo pip3 install opencv-python`
+
 You should have Python3, Numpy and OpenCV installed on your local machine.
 
 ## Execute the program
@@ -38,3 +40,7 @@ $ vim main.py
 :terminal
 $ python3 main.py
 ```
+
+## Credits
+
+Open CV, Python, Linux.
